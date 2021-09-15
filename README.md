@@ -1,1 +1,1 @@
-# Selection-Sort-Bubble-Sort-Algorithm-Implementation
+# Selection Sort and Bubble Sort Algorithms Implementation
